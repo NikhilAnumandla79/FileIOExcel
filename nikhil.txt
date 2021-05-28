@@ -1,0 +1,5 @@
+Sno     Name     Expences     
+1.0     Naresh     276.0     
+2.0     Aman     246.0     
+3.0     Tejal     500.0     
+4.0     Maanavi     290.0     
